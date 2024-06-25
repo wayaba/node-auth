@@ -1,0 +1,1 @@
+ver video Maneja los errores de javascript como un senior de midu
